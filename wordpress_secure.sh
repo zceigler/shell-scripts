@@ -1,7 +1,7 @@
 #!/bin/sh
 if [ -z $1 ]
 then 
- echo "Usage: harden_wordpress.sh {domain}"
+ echo "Usage: wordpress_secure.sh {domain}"
  exit
 fi
 
