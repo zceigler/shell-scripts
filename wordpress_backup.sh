@@ -1,7 +1,7 @@
 #!/bin/sh
 if [ -z $1 ]
 then 
- echo "Usage: website_backup.sh {domain}"
+ echo "Usage: wordpress_backup.sh {domain}"
  exit
 fi
 
